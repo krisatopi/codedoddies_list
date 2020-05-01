@@ -1,1 +1,1 @@
-web: gunicorn codedaddies_list.wsgi
+web: gunicorn codedoddies_list.wsgi
