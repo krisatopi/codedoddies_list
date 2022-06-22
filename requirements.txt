@@ -36,7 +36,7 @@ mf2py==1.1.2
 mysql-connector==2.2.9
 mysql-connector-python==8.0.19
 nltk==3.4.5
-numpy==1.18.1
+numpy==1.22.0
 pandas==0.25.3
 parsel==1.5.2
 probableparsing==0.0.1
